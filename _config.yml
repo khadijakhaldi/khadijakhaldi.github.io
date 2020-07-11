@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Khadija Khaldi"
   avatar           : "profile.png"
-  bio              : "Computer vision PhD student @QIL"
-  location         : "Location"
+  bio              : "Computer vision 
+                      PhD student @QIL"
+  location         : "Houston, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RgY6FNMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/khadijaakhaldi"
+  twitter          : "khadijaakhaldi"
   vine             :
   weibo            :
   xing             :
@@ -227,23 +228,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _news
   - scope:
       path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+ 
 
 # Sass/SCSS
 sass:
