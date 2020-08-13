@@ -8,13 +8,3 @@ date: 2019-08-01
 location: "Houston, USA"
 ---
 
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
