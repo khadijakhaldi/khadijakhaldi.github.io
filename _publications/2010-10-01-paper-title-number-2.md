@@ -3,7 +3,7 @@ title: "A novel multitarget prediction framework and its application to flood fo
 collection: publications
 excerpt: 'This paper is about analyzing temporal information of water level for flood forecasting using directed acyclic graph based approach.'
 date: 2018-10-26
-venue: 'Rice Data Science Conference 2018.'
+venue: 'Rice Data Science Conference'
 ---
 This paper is about analyzing temporal information of water level for flood forecasting using directed acyclic graph based approach.
 
