@@ -5,7 +5,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about using contrastive learning and clustering based-method for person re-identification task.'
 date: 2020-08-23
 venue: 'ECCV 2020 Women in Computer Vision Workshop'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about using contrastive learning and clustering based-method for person re-identification task.
 
