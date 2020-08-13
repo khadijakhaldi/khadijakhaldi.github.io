@@ -7,4 +7,3 @@ date: 08-23-2020
 venue: 'ECCV 2020 Women in Computer Vision Workshop'
 
 ---
-
